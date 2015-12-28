@@ -1,0 +1,502 @@
+2011-05-16 20:26:35 - PHP Notice:  Undefined index:  de-DE in I:\tools\apache\Apache\htdocs\richter\admin\index.php on line 119
+2011-05-16 20:26:35 - PHP Notice:  Undefined index:  de-DE in I:\tools\apache\Apache\htdocs\richter\admin\index.php on line 121
+2011-05-16 20:26:35 - PHP Notice:  Undefined index:  de-DE in I:\tools\apache\Apache\htdocs\richter\admin\index.php on line 122
+2011-05-16 20:26:35 - PHP Warning:  Cannot modify header information - headers already sent by (output started at I:\tools\apache\Apache\htdocs\richter\admin\index.php:72) in I:\tools\apache\Apache\htdocs\richter\system\library\currency.php on line 45
+2011-05-16 20:26:43 - PHP Notice:  Undefined index:  de-DE in I:\tools\apache\Apache\htdocs\richter\admin\index.php on line 119
+2011-05-16 20:26:43 - PHP Notice:  Undefined index:  de-DE in I:\tools\apache\Apache\htdocs\richter\admin\index.php on line 121
+2011-05-16 20:26:43 - PHP Notice:  Undefined index:  de-DE in I:\tools\apache\Apache\htdocs\richter\admin\index.php on line 122
+2011-05-16 20:26:43 - PHP Warning:  Cannot modify header information - headers already sent by (output started at I:\tools\apache\Apache\htdocs\richter\admin\index.php:72) in I:\tools\apache\Apache\htdocs\richter\system\library\currency.php on line 45
+2011-05-16 20:26:48 - PHP Notice:  Undefined index:  de-DE in I:\tools\apache\Apache\htdocs\richter\admin\index.php on line 119
+2011-05-16 20:26:48 - PHP Notice:  Undefined index:  de-DE in I:\tools\apache\Apache\htdocs\richter\admin\index.php on line 121
+2011-05-16 20:26:48 - PHP Notice:  Undefined index:  de-DE in I:\tools\apache\Apache\htdocs\richter\admin\index.php on line 122
+2011-05-16 20:26:48 - PHP Warning:  Cannot modify header information - headers already sent by (output started at I:\tools\apache\Apache\htdocs\richter\admin\index.php:72) in I:\tools\apache\Apache\htdocs\richter\system\library\currency.php on line 45
+2011-05-16 20:26:49 - PHP Warning:  Cannot modify header information - headers already sent by (output started at I:\tools\apache\Apache\htdocs\richter\admin\index.php:72) in I:\tools\apache\Apache\htdocs\richter\system\engine\controller.php on line 27
+2011-05-17 18:11:24 - PHP Notice:  Undefined index:  firstname in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 318
+2011-05-17 18:11:24 - PHP Notice:  Undefined index:  lastname in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 322
+2011-05-17 18:11:24 - PHP Notice:  Undefined index:  zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 360
+2011-05-17 18:11:24 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 364
+2011-05-17 18:11:24 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 368
+2011-05-17 18:13:38 - PHP Notice:  Undefined index:  firstname in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 318
+2011-05-17 18:13:38 - PHP Notice:  Undefined index:  lastname in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 322
+2011-05-17 18:13:38 - PHP Notice:  Undefined index:  zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 360
+2011-05-17 18:13:38 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 364
+2011-05-17 18:13:38 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 368
+2011-05-17 18:14:25 - PHP Notice:  Undefined index:  firstname in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 318
+2011-05-17 18:14:25 - PHP Notice:  Undefined index:  lastname in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 322
+2011-05-17 18:14:25 - PHP Notice:  Undefined index:  zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 360
+2011-05-17 18:14:25 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 364
+2011-05-17 18:14:25 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 368
+2011-05-17 18:14:50 - PHP Notice:  Undefined index:  firstname in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 318
+2011-05-17 18:14:50 - PHP Notice:  Undefined index:  lastname in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 322
+2011-05-17 18:14:50 - PHP Notice:  Undefined index:  zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 360
+2011-05-17 18:14:50 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 364
+2011-05-17 18:14:50 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 368
+2011-05-17 18:14:59 - PHP Notice:  Undefined index:  firstname in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 318
+2011-05-17 18:14:59 - PHP Notice:  Undefined index:  lastname in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 322
+2011-05-17 18:14:59 - PHP Notice:  Undefined index:  zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 360
+2011-05-17 18:14:59 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 364
+2011-05-17 18:14:59 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 368
+2011-05-17 18:34:06 - PHP Notice:  Undefined index:  land in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 334
+2011-05-17 18:34:06 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 358
+2011-05-17 18:34:06 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 362
+2011-05-17 18:34:31 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 358
+2011-05-17 18:34:31 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 362
+2011-05-17 19:12:47 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 358
+2011-05-17 19:12:47 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 362
+2011-05-17 19:13:28 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 358
+2011-05-17 19:13:28 - PHP Notice:  Undefined index:  password in I:\tools\apache\Apache\htdocs\richter\catalog\controller\account\create.php on line 362
+2011-05-17 19:17:52 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 19:17:52 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 19:17:52 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 19:17:52 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 19:17:52 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 19:17:52 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 19:17:52 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 19:17:52 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 19:17:52 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 19:17:52 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 19:17:52 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 19:19:06 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 19:19:06 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 19:19:06 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 19:19:06 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 19:19:06 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 19:19:06 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 19:19:06 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 19:19:06 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 19:19:06 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 19:19:06 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 19:19:06 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 19:54:41 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 19:54:41 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 19:54:41 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 19:54:41 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 19:54:41 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 19:54:41 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 19:54:41 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 19:54:41 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 19:54:41 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 19:54:41 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 19:54:41 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 19:56:05 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 19:56:05 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 19:56:05 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 19:56:05 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 19:56:05 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 19:56:05 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 19:56:05 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 19:56:05 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 19:56:05 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 19:56:05 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 19:56:05 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:07:48 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:07:49 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:07:49 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:07:49 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:07:49 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:07:49 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:07:49 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:07:49 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:07:49 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:07:49 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:07:49 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:07:54 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:07:54 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:09:01 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:09:01 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:09:12 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:09:12 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:09:20 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:09:20 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:09:49 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:09:49 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:24:34 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:24:34 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:25:19 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:25:19 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:26:23 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:26:23 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:26:29 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:26:29 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:26:32 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:26:32 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:26:36 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 20:26:36 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 44
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: error_firstname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 45
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 51
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: error_lastname in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 52
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: error_email in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 59
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: error_telephone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 66
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: error_address_1 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 86
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: address_2 in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 92
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: error_city in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 97
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: error_postcode in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 104
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 110
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: countries in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 21:09:31 - PHP Warning:  Invalid argument supplied for foreach() in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 112
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: error_country in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 120
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: error_zone in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 128
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: error_password in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 140
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: error_confirm in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 147
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: newsletter in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 158
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: text_agree in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 172
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: zone_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 267
+2011-05-17 21:09:31 - PHP Notice:  Undefined variable: country_id in I:\tools\apache\Apache\htdocs\richter\catalog\view\theme\default\template\account\create.tpl on line 268
+2011-05-17 21:11:51 - PHP Notice:  Undefined index:  museum in I:\tools\apache\Apache\htdocs\richter\catalog\model\account\customer.php on line 5
+2011-05-17 21:11:51 - PHP Notice:  Undefined index:  firma in I:\tools\apache\Apache\htdocs\richter\catalog\model\account\customer.php on line 5
+2011-05-17 21:11:51 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in I:\tools\apache\Apache\htdocs\richter\system\library\mail.php on line 153
+2011-05-17 21:11:51 - PHP Warning:  Cannot modify header information - headers already sent by (output started at I:\tools\apache\Apache\htdocs\richter\index.php:92) in I:\tools\apache\Apache\htdocs\richter\system\engine\controller.php on line 27
+2011-05-19 19:53:19 - PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+) in I:\tools\apache\Apache\htdocs\richter\system\library\mail.php on line 157
+2011-05-22 18:49:20 - PHP Notice:  Undefined index:  token in I:\tools\apache\Apache\htdocs\richter\admin\controller\common\login.php on line 10
+2011-05-25 20:44:26 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-05-25 20:44:26 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-05-25 20:44:26 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-05-26 15:36:04 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-05-26 15:36:04 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-05-26 15:36:06 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-05-26 15:36:06 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-05-26 15:36:08 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-05-26 15:36:18 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-05-26 23:04:13 - PHP Warning:  ControllerCommonImportimages::include(I:/tools/apache/Apache/htdocs/richter/index_exif.php) [<a href='controllercommonimportimages.include'>controllercommonimportimages.include</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 15
+2011-05-26 23:04:13 - PHP Warning:  ControllerCommonImportimages::include() [<a href='function.include'>function.include</a>]: Failed opening 'I:/tools/apache/Apache/htdocs/richter/index_exif.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 15
+2011-05-26 23:04:13 - PHP Warning:  opendir(I:/tools/apache/Apache/htdocs/richter/image/upload/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 20
+2011-05-26 23:04:13 - PHP Warning:  opendir(I:/tools/apache/Apache/htdocs/richter/image/upload/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 33
+2011-05-26 23:04:46 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-05-26 23:04:46 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-05-26 23:05:28 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-05-26 23:05:28 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-05-26 23:05:43 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-05-26 23:05:47 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-05-26 23:06:08 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-05-26 23:06:27 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-05-26 23:10:57 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-05-26 23:10:57 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-05-26 23:10:59 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-05-26 23:10:59 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-05-26 23:11:02 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-05-26 23:11:07 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-06-23 10:35:40 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-06-23 10:35:40 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-06-23 10:36:00 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-06-23 10:36:04 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-06-23 10:36:29 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-06-23 10:36:49 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-06-23 13:06:25 - PHP Notice:  Undefined index:  firstname in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 678
+2011-06-23 13:06:25 - PHP Notice:  Undefined index:  lastname in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 686
+2011-06-23 13:06:25 - PHP Notice:  Undefined index:  email in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 694
+2011-06-23 13:06:25 - PHP Notice:  Undefined index:  telephone in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 702
+2011-06-23 13:06:25 - PHP Notice:  Undefined index:  fax in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 710
+2011-06-23 13:06:25 - PHP Notice:  Undefined index:  newsletter in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 718
+2011-06-23 13:06:25 - PHP Notice:  Undefined index:  customer_group_id in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 730
+2011-06-23 13:06:25 - PHP Notice:  Undefined index:  status in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 738
+2011-06-23 13:06:25 - PHP Notice:  Undefined index:  address_id in /serv/www/www.gerhard-richter-images.de/data/admin/model/sale/customer.php on line 46
+2011-06-23 13:07:00 - PHP Notice:  Undefined index:  value in /serv/www/www.gerhard-richter-images.de/data/admin/model/sale/order.php on line 85
+2011-06-23 13:07:00 - PHP Notice:  Undefined index:  order_total_id in /serv/www/www.gerhard-richter-images.de/data/admin/model/sale/order.php on line 86
+2011-06-23 14:27:45 - PHP Notice:  Undefined index:  firstname in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 678
+2011-06-23 14:27:45 - PHP Notice:  Undefined index:  lastname in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 686
+2011-06-23 14:27:45 - PHP Notice:  Undefined index:  email in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 694
+2011-06-23 14:27:45 - PHP Notice:  Undefined index:  telephone in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 702
+2011-06-23 14:27:45 - PHP Notice:  Undefined index:  fax in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 710
+2011-06-23 14:27:45 - PHP Notice:  Undefined index:  newsletter in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 718
+2011-06-23 14:27:45 - PHP Notice:  Undefined index:  customer_group_id in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 730
+2011-06-23 14:27:45 - PHP Notice:  Undefined index:  status in /serv/www/www.gerhard-richter-images.de/data/admin/controller/sale/customer.php on line 738
+2011-06-23 14:27:45 - PHP Notice:  Undefined index:  address_id in /serv/www/www.gerhard-richter-images.de/data/admin/model/sale/customer.php on line 46
+2011-06-23 15:33:12 - PHP Notice:  Undefined index:  token in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/login.php on line 10
+2011-06-24 9:39:49 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-06-24 9:39:49 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-06-24 9:40:11 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-06-24 9:40:15 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-06-24 9:40:38 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-06-24 9:40:58 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-10-11 12:45:23 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-10-11 12:45:23 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-10-11 12:45:50 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-10-11 12:45:53 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-10-11 12:46:12 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 185
+2011-10-11 12:46:20 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 75
+2011-10-11 12:46:59 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-10-24 14:43:18 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-10-24 14:43:18 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-10-24 14:43:46 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 14:43:49 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 14:44:10 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 14:44:33 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-10-24 14:59:49 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-10-24 14:59:49 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-10-24 14:59:59 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:00:00 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:00:10 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:00:24 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-10-24 15:03:39 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-10-24 15:03:39 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-10-24 15:04:48 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-10-24 15:04:48 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-10-24 15:04:52 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:04:53 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:05:01 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:05:11 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-10-24 15:27:39 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-10-24 15:27:39 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-10-24 15:27:43 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:27:44 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:27:49 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:28:00 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-10-24 15:28:45 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-10-24 15:28:45 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-10-24 15:28:49 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:28:50 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:28:55 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:29:07 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-10-24 15:51:35 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-10-24 15:51:35 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-10-24 15:51:55 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:51:59 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:52:19 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:52:54 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-10-24 15:54:46 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-10-24 15:54:46 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-10-24 15:54:50 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:54:51 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:54:55 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:55:05 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2011-10-24 15:58:11 - PHP Warning:  file_get_contents(1.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 139
+2011-10-24 15:58:11 - PHP Notice:  Undefined offset:  0 in /serv/www/www.gerhard-richter-images.de/data/index_exif.php on line 144
+2011-10-24 15:58:13 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:58:14 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:58:18 - PHP Notice:  Array to string conversion in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/importimages.php on line 236
+2011-10-24 15:58:28 - PHP Notice:  Undefined variable: token in /serv/www/www.gerhard-richter-images.de/data/admin/view/template/common/import.tpl on line 106
+2012-02-27 19:38:55 - PHP Notice:  Undefined index:  token in /serv/www/www.gerhard-richter-images.de/data/admin/controller/common/login.php on line 10
