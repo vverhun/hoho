@@ -307,7 +307,7 @@
                     </p>
 
                     <div>
-                        &copy; <?php echo $copyright;?>
+                        &copy; <?php echo $copyright;?> <? echo date('Y');?> - <?php echo $copyright2;?>
                     </div>
 
 

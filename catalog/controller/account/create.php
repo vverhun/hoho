@@ -15,12 +15,6 @@ class ControllerAccountCreate extends Controller {
 
         $this->load->model('account/customer');
 
-        if ($_FILES['uploaddata']['name'] != '') {
-            $target_path = "download/";
-            $target_path = $target_path . basename($_FILES['uploaddata']['name']);
-            move_uploaded_file($_FILES['uploaddata']['tmp_name'], $target_path);
-            $_SESSION['uploaddata']['name'] = $_FILES['uploaddata']['name'];
-        }
 
         if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validate()) {
 
@@ -78,14 +72,6 @@ class ControllerAccountCreate extends Controller {
             }
 
 
-            if ($_SESSION['uploaddata']['name'] == '') {
-
-                if ($lang == 'de-DE') {
-                    $message.= $this->language->get('text_approval3_email');
-                } else {
-                    $message.= $this->language->get('text_approval3_email_en');
-                }
-            }
 
 
             if ($lang == 'de-DE') {
@@ -139,15 +125,7 @@ class ControllerAccountCreate extends Controller {
             $mail->setSubject("Eine neue Anmeldung ist im Shop eingegangen");
             $mail->setHtml($message, ENT_QUOTES, 'UTF-8');
             @$mail->send();
-
-
-            if ($_SESSION['uploaddata']['name'] != '') {
-                $_SESSION = array();
-                $this->redirect(HTTPS_SERVER . 'index.php?route=account/success');
-            } else {
-                $_SESSION = array();
-                $this->redirect(HTTPS_SERVER . 'index.php?route=account/success&upload=0');
-            }
+            $this->redirect(HTTPS_SERVER . 'index.php?route=account/success');
         }
 
         $this->document->breadcrumbs = array();

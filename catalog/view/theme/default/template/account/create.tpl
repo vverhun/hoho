@@ -11,15 +11,18 @@
         <h3><? echo $heading_title2;?></h3>
         <p class="checks" id="personchecks" style="margin-bottom:20px;" >
 
-            <input name="type_person" id="firma" class = "type_person1 radio" value="firma"        type  = "radio"    <?php if($firma == 'on' ) echo 'checked'; ?>       />  <label for="firma"> <? echo  $typ1;?> </label>
-            <br><br><input name="type_person" id="museum" class = "type_person2 radio" type="radio"         value = "museum"  <?php if($museum == 'on' ) echo 'checked'; ?>      /> <label for="museum"><? echo  $typ2;?>  </label>
-            <br><br><input name="type_person" id="privatperson" class = "type_person3 radio" value="privatperson" type  = "radio"    <?php if($privatperson == 'on' ) echo 'checked'; ?> /> <label for="privatperson"><? echo  $typ3;?> </label>
+            <input name="type_person" id="firma" class = "type_person1 radio personchecks" value="firma"        type  = "radio"    <?php if($firma == 'on' ) echo 'checked'; ?>       />  <label for="firma"> <? echo  $typ1;?> </label>
+            <br><br><input name="type_person" id="museum" class = "type_person2 radio personchecks" type="radio"         value = "museum"  <?php if($museum == 'on' ) echo 'checked'; ?>      /> <label for="museum"><? echo  $typ2;?>  </label>
+            <br><br><input name="type_person" id="privatperson" class = "type_person3 radio personchecks" value="privatperson" type  = "radio"    <?php if($privatperson == 'on' ) echo 'checked'; ?> /> <label for="privatperson"><? echo  $typ3;?> </label>
 
 
         </p>
         <div class="inps">
-            <p><label for="ein"><? echo $entry_name; ?></label>	<input id="ein" type="text" name="company" value="<?php echo $company; ?>"/></p>
-            <p class="separatorp">						<input id="inp2" type="text" name="company2" value="<?php echo $company2; ?>"/></p>
+
+            <p class='einrich'><label for="ein"><? echo $entry_name; ?></label>	<input id="ein" type="text" name="firstname" value="<?php echo $firstname; ?>"/></p>
+            <p class="separatorp einrich"><input id="inp2" type="text" name="lastname" value="<?php echo $lastname; ?>"/></p>
+
+
             <p style="margin-bottom:10px;"> <? echo $entry_person; ?> 
             </p>
 
@@ -28,7 +31,7 @@
             </p>
 
             <p><label for="inp3"><? echo $entry_lastname; ?></label>
-                <input  type="text" name="ansprechpartner" value="<?php echo $ansprechpartner; ?>"/>
+                <input  type="text" name="ansprechpartner2" value="<?php echo $ansprechpartner2; ?>"/>
             </p>
             <p class="separatorp"><label for="inp4"><? echo $entry_position; ?></label> <input id="inp4" type="text" name="position" value="<?php echo $position; ?>"/></p>
 
@@ -137,16 +140,22 @@
             s--;
     }
     });
-            $('#personchecks a.jNiceRadio').click(function(e){
+            $('.personchecks').click(function(e){
 
-    var id = $(this).next().attr('value');
-            if (id == 'firma') $('#taxidnumber').css('display', 'block');
-            else $('#taxidnumber').css('display', 'none');
+             var id = $(this).attr('value');
+            if (id == 'firma'){ $('#taxidnumber').css('display', 'block');}
+            else { $('#taxidnumber').css('display', 'none');}
+            
+            if (id == 'privatperson'){ $('.einrich').css('display', 'none');}
+            else { $('.einrich').css('display', 'block');}
+            
     });
             if ($('.type_person1').attr('checked')){ $('#taxidnumber').css('display', 'block'); }
     if ($('.type_person2').attr('checked')){ $('#taxidnumber').css('display', 'none'); }
     if ($('.type_person3').attr('checked')){ $('#taxidnumber').css('display', 'none'); }
 
+ 
+            
 
     $('#reg_info').CreateBubblePopup({
     innerHtml: "<div class='popup4ik'><p><?php echo $spesial_text2; ?></p></div>",

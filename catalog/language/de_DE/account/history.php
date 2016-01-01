@@ -19,8 +19,9 @@ $_['my_front_page'] = 'Titelseite';
 $_['my_prgect'] = 'Projektverwaltung';
 $_['my_angared'] = 'Offene Anfragen:';
 $_['my_offersStudio'] = 'Angebote vom Atelier:';
+$_['my_offersStudio_'] = 'Angebote vom Atelier';
 $_['my_complatedProgect'] = 'Abgeschlossene Projekte:';
-$_['my_openProgect'] = 'Offene Projekte';
+$_['my_openProgect'] = 'Offene Anfragen';
 $_['my_NO'] = 'Nr.';
 $_['my_sentReqvest'] = 'Anfrage gesendet';
 $_['my_image'] = 'Bilder';
@@ -38,17 +39,23 @@ $_['my_totalAm'] = 'GESAMSUMME:';
 $_['my_close'] = 'schliessen';
 $_['my_show'] = 'Ansicht';
 
-$_['my_archive'] = 'Projekt Archiv';
+$_['my_archive'] = 'Abgeschlossene Projekte';
 $_['my_angebot'] = 'Angebot';
 $_['my_offen'] = 'offen';
 $_['my_bezahlt'] = 'bezahlt';
 $_['my_abgelehnt'] = 'abgelehnt';
  $_['print']      = 'Rechnung erstellen';
 $_['my_kasse'] = 'Zur Kasse';
-$_['my_verwerfen'] = 'Verwerfen';
+$_['my_verwerfen'] = 'Ablehnen';
 
 $_['my_tax'] = 'MwSt.:';
 $_['my_subtotal'] = 'Steuerpfl. Betrag:';
 $_['approved_text'] = 'Genehmigung nicht erteilt';
+
+$_['approved_message'] = '<b>* Ich akzeptiere</b> die Lizenzbedingungen und verpfl ichte mich bei gedruckten
+Publikationen ein Belegexemplar an das „Gerhard Richter Archiv“ zu senden und
+bei digitalen Publikationen und Großraumwerbung ein Beleg-Foto/Bildschirmfoto
+an das „Gerhard Richter Archiv“ per E-Mail zu senden.';
+
 
 ?>

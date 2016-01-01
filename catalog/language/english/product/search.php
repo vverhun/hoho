@@ -25,7 +25,7 @@ $_['entry_search']      = 'Search:';
 $_['entry_description'] = 'Search in product descriptions';
 $_['entry_model']       = 'Search in product model';
 
-$_['text_info_1'] = 'The following categories are available …<br><br>- Paintings/Sculptures<br>- Editions<br>- Atlas<br>- Overpainted Photographs<br>- Watercolors<br>- Drawings<br>- Oil on Paper<br>';
+$_['text_info_1'] = 'The following categories are available …<br><br>- Paintings/Sculptures<br>- Editions<br>- Atlas<br>- Overpainted Photographs<br>- Watercolors<br>- Drawings<br>- Oil on Paper<br>- Elbe<br>- November<br>';
 $_['text_info_2'] = 'The catalogue raisonné number may be entered as follows:<br>• 123<br>• 123-1<br>• 123a<br>• 123a-1<br>';
 $_['text_info_3'] = 'Search by the <br>• Title and/or<br>• WV (CR) number* and/or<br>• Year of creation of the work of art<br><br>*) WV: Werksverzeichnis = <br>CR: Catalogue Raisonné';
 

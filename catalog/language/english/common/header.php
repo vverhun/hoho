@@ -23,7 +23,8 @@ $_['impressum'] = 'Imprint/legal notice';
 // Entry
 $_['entry_search']   = 'Search:';
 
-$_['copyright'] = 'Atelier Gerhard Richter 2012 - All Rights Reserved';
+$_['copyright'] = 'Atelier Gerhard Richter';
+$_['copyright2'] = 'All Rights Reserved';
 $_['text_Shopp'] = 'Shopping Cart';
 $_['text_Konto'] = 'My Account';
 $_['text_Anleitung'] = 'Instructions';

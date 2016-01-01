@@ -17,7 +17,7 @@ $_['entry_captcha'] 	 = 'Bitte den Code einfügen:';
 
 // Email
 $_['email_subject']      = 'Anfrage %s';
-
+$_['text_delivery']      = 'Versand von Belegexemplaren an:';
 // Errors
 $_['error_name']         = 'Name muss zwischen 3 und 32 Zeichen lang sein!';
 $_['error_email']        = 'Emailadresse ist nicht gültig!';

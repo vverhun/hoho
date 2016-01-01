@@ -25,7 +25,7 @@ $_['entry_search']      = 'Suche:';
 $_['entry_description'] = 'In Produktbeschreibungen suchen:';
 $_['entry_model']       = 'In Produktmodellen suchen:';
 
-$_['text_info_1'] = 'Folgende Kategorien stehen zur Verfügung:<br><br>- Bilder/Skulpturen<br>- Editionen<br>- Atlas<br>- Übermalte Fotografien<br>- Aquarelle<br>- Zeichnungen<br>- Öl auf Papier<br>';
+$_['text_info_1'] = 'Folgende Kategorien stehen zur Verfügung:<br><br>- Bilder/Skulpturen<br>- Editionen<br>- Atlas<br>- Übermalte Fotografien<br>- Aquarelle<br>- Zeichnungen<br>- Öl auf Papier<br>- Elbe<br>- November<br>';
 $_['text_info_2'] = 'Die Werksverzeichnisnummer kann wie folgt eingegeben werden:<br>• 123<br>• 123-1<br>• 123a<br>• 123a-1<br>';
 $_['text_info_3'] = 'Die Suche kann nach<br>• Titel und/oder<br>• WV (CR) Nummer* und/oder<br>• Entstehungsjahr des Kunstwerkes definiert werden<br><br>*) WV: Werksverzeichnis = <br>CR: Catalogue Raisonné';
 

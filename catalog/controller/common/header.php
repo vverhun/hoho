@@ -95,6 +95,7 @@ class ControllerCommonHeader extends Controller {
 		$this->data['admin']  = $this->user->isLogged();
 
 		$this->data['copyright'] = $this->language->get('copyright');
+                $this->data['copyright2'] = $this->language->get('copyright2');
 		$this->data['text_Shopp'] = $this->language->get('text_Shopp');
 		$this->data['text_Konto'] = $this->language->get('text_Konto');
 		$this->data['text_Anleitung'] = $this->language->get('text_Anleitung');

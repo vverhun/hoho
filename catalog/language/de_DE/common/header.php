@@ -22,7 +22,8 @@ $_['password'] = 'Passwort';
 $_['impressum'] = 'Impressum';
 
 
-$_['copyright'] = 'Atelier Gerhard Richter 2012 - Alle Rechte vorbehalten';
+$_['copyright'] = 'Atelier Gerhard Richter';
+$_['copyright2'] = 'Alle Rechte vorbehalten';
 $_['text_Shopp'] = 'Warenkorb';
 $_['text_Konto'] = 'Mein Konto';
 $_['text_Anleitung'] = 'Anleitung';

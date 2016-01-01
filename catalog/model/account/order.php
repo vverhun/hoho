@@ -114,7 +114,15 @@ class ModelAccountOrder extends Model {
 	public function getOrders1( ) {
 
 
-		$query = $this->db->query("SELECT o.order_id, o.firstname, o.lastname,  o.date_added, o.date_modified, o.total, o.subtotal,o.tax, o.currency, o.order_status_id, o.value FROM `" . DB_PREFIX . "order` o  WHERE customer_id = '" . (int)$this->customer->getId() . "' AND o.order_status_id IN ('1','3')  ORDER BY o.order_id DESC ");
+		$query = $this->db->query("SELECT o.order_id, o.firstname, o.lastname,  o.date_added, o.date_modified, o.total, o.subtotal,o.tax, o.currency, o.order_status_id, o.value FROM `" . DB_PREFIX . "order` o  WHERE customer_id = '" . (int)$this->customer->getId() . "' AND o.order_status_id IN ('1')  ORDER BY o.order_id DESC ");
+
+		return $query->rows;
+	}
+        
+        public function getOrders3( ) {
+
+
+		$query = $this->db->query("SELECT o.order_id, o.firstname, o.lastname,  o.date_added, o.date_modified, o.total, o.subtotal,o.tax, o.currency, o.order_status_id, o.value FROM `" . DB_PREFIX . "order` o  WHERE customer_id = '" . (int)$this->customer->getId() . "' AND o.order_status_id IN ('3')  ORDER BY o.order_id DESC ");
 
 		return $query->rows;
 	}
@@ -126,6 +134,23 @@ class ModelAccountOrder extends Model {
 		return $query->rows;
 	}
 
+        public function getTotalCountOfOrdersByStatus(){
+            
+            	$query = $this->db->query("SELECT count(o.order_id) as total FROM `" . DB_PREFIX . "order` o  WHERE customer_id = '" . (int)$this->customer->getId() . "' AND o.order_status_id IN ('1')  ORDER BY o.order_id DESC ");
+		$res1 = $query->row['total'];
+                
+                 
+                $query = $this->db->query("SELECT count(o.order_id) as total FROM `" . DB_PREFIX . "order` o  WHERE customer_id = '" . (int)$this->customer->getId() . "' AND o.order_status_id IN ('3')  ORDER BY o.order_id DESC ");
+		$res2 = $query->row['total'];
+                
+                $query = $this->db->query("SELECT count(o.order_id) as total FROM `" . DB_PREFIX . "order` o  WHERE customer_id = '" . (int)$this->customer->getId() . "' AND  o.order_status_id IN ('5','7')   ORDER BY o.order_id DESC ");
+                $res3 = $query->row['total'];
+                
+                return array ($res1, $res2, $res3);
+            
+        }
+        
+        
 
 	public function getOrderProducts($order_id) {
 		$query = $this->db->query("SELECT * FROM " . DB_PREFIX . "order_product WHERE order_id = '" . (int)$order_id . "'");

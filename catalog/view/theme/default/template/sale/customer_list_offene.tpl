@@ -11,6 +11,11 @@
         background-color: #EEE !important;	
         padding: 1px 0px 1px 0px;
     }
+ 
+    label{
+        width: 171px;
+    }
+ 
 </style>
 
 <script>
@@ -54,6 +59,8 @@
 
 
     });
+    
+     
 </script>  
 
 <div class="box">
@@ -145,7 +152,7 @@
 
                 <?php if ($customers) { ?>
                 <?php foreach ($customers as $customer) { ?>
-                <tr>        
+                <tr>      
                     <td class="left"  align=center>...</td>
                     <td class="left "><div style='width:138px;overflow: hidden;'><?php echo $customer['firstname']; ?></div></td>
                     <td class="left"><div style='width:138px;overflow: hidden;'><?php echo $customer['ansprechpartner']; ?></div></td>
@@ -163,78 +170,80 @@
 
                         <div  class="proddetailtoshow" style='float:left; background-color: #EEE !important;	 display:none; width: 100%; ' id='customerdetail<?php echo $customer["customer_id"];?>'> 
 
-                            <table border=0 width=100%  style="float:left;" class="tabledetail"><tr>
 
-                                    <td valign=top align=left>
-                                        <table width='60%'><tr><td  width=198px>
-                                                    &nbsp;&nbsp;&nbsp;Einrichtung: </td><td> <b><?php echo $customer['firstname']; ?></b><br>
-                                                </td></tr><tr><td  width=198px>
-                                                    &nbsp;&nbsp; Ansprechpartner:  </td><td><b><?php echo $customer['ansprechpartner']; ?></b><br>
-                                                </td></tr><tr><td  width=198px>
-                                                    &nbsp;&nbsp; Position: </td><td><b><?php echo $customer['position']; ?></b><br>
-                                                </td></tr>
-                                            <tr><tr>&nbsp;</td></tr><tr><td>&nbsp;</td></tr>					
-                                            <tr><td  width=198px>
-                                                    &nbsp;&nbsp;   Benutzername: </td><td><b><?php echo $customer['username']; ?></b><br>
-                                                </td></tr><tr><td  width=198px>				  
-                                                    &nbsp;&nbsp;    Straße: </td><td><b><?php echo $customer['address_1']; ?></b><br>
-                                                </td></tr><tr><td  width=198px>
-                                                    &nbsp;&nbsp;	PLZ: </td><td><b><?php echo $customer['postcode']; ?></b><br>
-                                                </td></tr><tr><td  width=198px>
-                                                    &nbsp;&nbsp;	Stadt: </td><td><b><?php echo $customer['city']; ?></b><br>
-                                                </td></tr><tr><td  width=198px>
-                                                    &nbsp;&nbsp;	Land: </td><td><b><?php echo $customer['country']; ?></b><br>
-                                                </td></tr><tr><td  width=198px>
-                                                    &nbsp;&nbsp;	TaxID Number: </td><td><b><?php echo $customer['taxid_number']; ?></b><br>
-                                                </td></tr>
+                            <div class="reg_block">
+                                <h3>Hauptadresse / Ansprechpartner</h3>
+                                <p class="checks" id="personchecks" style="margin-bottom:20px;" >
+                                    <input name="type_person" id="firma" disabled class = "type_person1 radio" value="firma"  type  = "radio"    <?php if($customer['firma'] == 'on' ) echo 'checked'; ?>       />  <label for="firma">Firma/Verein/Stiftung</label>
+                                    <br><br><input name="type_person" disabled id="museum" class = "type_person2 radio" type="radio" value = "museum"  <?php if($customer['museum'] == 'on' ) echo 'checked'; ?>      /> <label for="museum">Museum/Galerie</label>
+                                    <br><br><input name="type_person" disabled id="privatperson" class = "type_person3 radio" value="privatperson" type  = "radio"    <?php if($customer['privatperson'] == 'on' ) echo 'checked'; ?> /> <label for="privatperson">Privatperson</label>
+                                </p>
+                                <div class="inps">
+                                    <p><label for="ein">Einrichtung:</label>	<?php echo $customer['firstname']; ?></p>
+                                    <p class="separatorp"><label for="eiffn">&nbsp;</label><?php echo $customer['lastname']; ?></p>
+                                    <p style="margin-bottom:10px;"> Ansprechpartner:
+                                    </p>
 
-                                            <tr><tr>&nbsp;</td></tr><tr><td>&nbsp;</td></tr>
+                                    <p><label for="inp3">Vorname:</label>
+                                        <?php echo $customer['ansprechpartner']; ?>
+                                    </p>
 
-                                            <tr><td>
+                                    <p><label for="inp3">Nachname:</label>
+                                        <?php echo $customer['ansprechpartner2']; ?>
+                                    </p>
+                                    <p class="separatorp"><label for="inp4">Position:</label><?php echo $customer['position']; ?></p>
 
-                                                    &nbsp;&nbsp;	Telefon: </td><td><b><?php echo $customer['telephone']; ?></b><br>
-                                                </td></tr><tr><td>
-                                                    &nbsp;&nbsp;	Mobil: </td><td><b><?php echo $customer['mobile']; ?></b><br>
-                                                </td></tr><tr><td>
-                                                    &nbsp;&nbsp;	Fax: </td><td><b><?php echo $customer['fax']; ?></b><br>
-                                                </td></tr><tr><td>
-                                                    &nbsp;&nbsp;	E-Mail: </td><td><b><?php echo $customer['email']; ?></b><br><br>
-                                                </td></tr></table>
+                                    <div style="background-color: white !important;
+                                         float: left;
+                                         padding-top: 10px;
+                                         padding-bottom: 10px; margin-top:3px; margin-bottom:10px;">
+                                        <p><label for="inp5">Strasse Haus-Nr.:</label><?php echo $customer['address_1']; ?></p>
+                                        <p><label for="inp6">PLZ:</label><?php echo $customer['postcode']; ?></p>
+                                        <p><label for="inp7">Stadt:</label><?php echo $customer['city']; ?></p>
+                                        <p style="    padding-top: 10px;"><label for="inp8">Land:</label>	
+                                            <?php echo $customer['country']; ?>
+                                        </p>
 
-                                        <div style="float: right;   margin-right: -111px; margin-top: -105px;width: 245px;">
-                                            <? if ( $customer['downloadedfile'] != '' ) {?>		
-								<a href="/download/<?php echo $customer['downloadedfile']; ?>" style="color:black; text-decoration:none;">	 	 
-										<img  width="50px" class="medalka" src="catalog/view/theme/default/img/inpspic.gif" />
-										<br><div style="text-decoration:underline;text-align:justify;" >Verifizierungs-<br>Document</div>
-								</a>
-							<?}?>
-                                        </div>	 
+                                        <p style="    padding-top: 10px;"><label style="margin-top:5px;">Kommunikations-sprache:&nbsp;&nbsp;&nbsp;</label>	
+                                            <?php if ($customer['communic'] == 'de-DE' ) echo "German"; ?>
+                                            <?php if ($customer['communic'] == 'en' ) echo "English"; ?>
+                                        </p>
+                                    </div> 
 
-                                    </td>
+                                    <p id="taxidnumber"><label for="inp9">TaxID Number:</label><?php echo $customer['taxid_number']; ?></p>
 
-                                <tr><td colspan=7><h2 style="background-color: #F7F7F7 !important;padding:5px 0 5px 13px;">Rechnungsadresse</h2></td></tr>		
-                                <tr><td colspan=7>
-                                        <div style="padding:5px 0 5px 13px;">	
-                                            <? echo $bill_address; if ( $customer['bill_address'] == 'on'){?> <b> Rechnungsadresse entspricht der Hauptadresse </b> <?} else{?>
-				  
-	             <table border=0  style="float:left;"> 
-			  
-				  <tr><td width=184px> 
-			    Straße: </td><td> <b><?php echo $customer['bill_address_1']; ?></b><br>
-				    </td></tr><tr><td width=184px>
-				 	PLZ: </td><td><b><?php echo $customer['bill_postcode']; ?></b><br>
-					</td></tr><tr><td width=184px>
-				 	Stadt: </td><td><b><?php echo $customer['bill_city']; ?></b><br>
-					</td></tr><tr><td width=184px>
-				 	Land: </td><td><b><?php echo $customer['bill_land']; ?></b><br>
-					</td></tr> </table>
-					
-					
-				  <?}?>
-                                        </div>		
-                                    </td></tr>	
+                                    <div style="background-color: white !important;
+                                         float: left;
+                                         padding-top: 10px;
+                                         padding-bottom: 10px; margin-top:3px; ">
+                                        <p><label for="inp10">Telefon:</label><?php echo $customer['telephone']; ?></p>
+                                        <p><label for="inp11">Mobile:</label><?php echo $customer['mobile']; ?></p>
+                                        <p><label for="inp12">Fax:</label><?php echo $customer['fax']; ?></p>
+                                        <p><label for="inp13">E-Mail:</label><?php echo $customer['email']; ?></p>
+                                    </div>  </div>
 
-                                </tr></table>
+                                <h3>Rechnungsadresse</h3> 
+                                <p class="checks" ><input id="bill" class="radio" disabled onchange="checboxBill();" name="bill_address" type="checkbox" <?php if($customer['bill_address'] == 'on' ) echo 'checked'; ?> /> <label for="bill">Rechnungsadresse entspricht der Hauptadresse</label>
+                                <div id="billForm" style="<?php if($customer['bill_address'] == 'on' ) echo 'display:none;'; ?>">
+                                    <div class="inps" style="background-color:white;">
+                                        <input type="hidden" name="bill_access" value="<?php if($bill_address == 'on' ){ echo 'off';}else{echo 'on';} ?>" id="bill_accessId"/>
+                                        <p><label for="inp5">Strasse Haus-Nr.:</label><?php echo $customer['bill_address_1']; ?></p>
+                                        <p><label for="inp6">PLZ:</label><?php echo $customer['bill_postcode']; ?></p>
+                                        <p><label for="inp7">Stadt:</label><?php echo $customer['bill_city']; ?></p>
+                                        <p><label for="inp8">Land:</label><?php echo $customer['bill_land']; ?></p>
+                                    </div>
+
+                                </div>
+                                </p>
+                                <h3>Zugangsdaten</h3>
+                                <div class="inps" style="width:100%;  background-color:white;margin: -6px 0px -10px 0px;
+                                     padding: 10px 0px 10px 0px;">
+                                    <p style="margin-bottom:10px;"><label for="inp14">Benutzername:</label>
+                                        <?php echo $customer['username']; ?> </p>
+
+                                </div>
+                            </div>
+   
 
                             <div style="/* margin-left: -10px; */width: 33%;text-align:left; float:left;   margin-bottom: -8px;/* padding:7px; */ background-color: #DDDDDC;">
                                 <input class="confirmdialogopener sbmt_button" type="button" onclick="" value="Ablehnen">

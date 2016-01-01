@@ -56,6 +56,14 @@ class ControllerSaleCustomer extends Controller {
         $this->response->setOutput($this->render(TRUE), $this->config->get('config_compression'));
     }
 
+    public function newpasswort(){
+        
+        $customer_id = $this->request->get['customer_id'];
+        
+        
+        
+    }
+    
     public function offene() {
         $this->load->language('sale/customer');
 
@@ -154,7 +162,61 @@ class ControllerSaleCustomer extends Controller {
         $this->data['status_customer'] = HTTPS_SERVER . 'index.php?route=sale/customer/kunden&sort=c.status' . $url;
 
 
+        $this->language->load('account/edit');
+        $this->document->title = $this->language->get('heading_title');
+        $this->data['heading_title'] = $this->language->get('heading_title');
+        $this->data['heading_title2'] = $this->language->get('heading_title2');
+        $this->data['heading_title3'] = $this->language->get('heading_title3');
+        $this->data['heading_title4'] = $this->language->get('heading_title4');
+        $this->language->load('account/create');
+        $this->data['heading_title2'] = $this->language->get('heading_title2');
+        $this->data['spesial_text2'] = $this->language->get('spesial_text2');
+        $this->data['spesial_text'] = $this->language->get('spesial_text');
+        $this->data['text_yes'] = $this->language->get('text_yes');
+        $this->data['text_no'] = $this->language->get('text_no');
+        $this->data['text_select'] = $this->language->get('text_select');
+        $this->data['text_account_already'] = sprintf($this->language->get('text_account_already'), HTTPS_SERVER . 'index.php?route=account/login');
+        $this->data['text_your_details'] = $this->language->get('text_your_details');
+        $this->data['text_your_address'] = $this->language->get('text_your_address');
+        $this->data['text_your_password'] = $this->language->get('text_your_password');
+        $this->data['text_newsletter'] = $this->language->get('text_newsletter');
+        $this->data['passinfo'] = $this->language->get('passinfo');
 
+        $this->data['entry_firstname'] = $this->language->get('entry_firstname');
+        $this->data['entry_username'] = $this->language->get('entry_username');
+        $this->data['entry_lastname'] = $this->language->get('entry_lastname');
+        $this->data['entry_email'] = $this->language->get('entry_email');
+        $this->data['entry_telephone'] = $this->language->get('entry_telephone');
+        $this->data['entry_fax'] = $this->language->get('entry_fax');
+        $this->data['entry_company'] = $this->language->get('entry_company');
+        $this->data['entry_address_1'] = $this->language->get('entry_address_1');
+        $this->data['entry_address_2'] = $this->language->get('entry_address_2');
+        $this->data['entry_postcode'] = $this->language->get('entry_postcode');
+        $this->data['entry_position'] = $this->language->get('entry_position');
+        $this->data['senden'] = $this->language->get('senden');
+
+        $this->data['entry_city'] = $this->language->get('entry_city');
+        $this->data['entry_country'] = $this->language->get('entry_country');
+        $this->data['entry_zone'] = $this->language->get('entry_zone');
+        $this->data['entry_newsletter'] = $this->language->get('entry_newsletter');
+        $this->data['entry_password'] = $this->language->get('entry_password');
+        $this->data['entry_confirm'] = $this->language->get('entry_confirm');
+        $this->data['communication'] = $this->language->get('communication');
+
+        $this->data['typ1'] = $this->language->get('typ1');
+        $this->data['typ2'] = $this->language->get('typ2');
+        $this->data['typ3'] = $this->language->get('typ3');
+        $this->data['entry_name'] = $this->language->get('entry_name');
+        $this->data['entry_tax'] = $this->language->get('entry_tax');
+        $this->data['entry_person'] = $this->language->get('entry_person');
+        $this->data['street'] = $this->language->get('street');
+        $this->data['mobil'] = $this->language->get('mobil');
+        $this->data['entry_fax'] = $this->language->get('entry_fax');
+        $this->data['mandatory'] = $this->language->get('mandatory');
+
+        $this->load->model('localisation/country');
+
+        $this->data['countries'] = $this->model_localisation_country->getCountries();
 
         $this->template = 'default/template/sale/customer_list_kunden.tpl';
         $this->children = array(
@@ -405,6 +467,7 @@ class ControllerSaleCustomer extends Controller {
                     'firstname' => $result['firstname'],
                     'email' => $result['email'],
                     'bill_address' => $bill_info['bill_address'],
+                    'lang' => $result['lang'],
                     'bill_address_1' => $bill_info['bill_address_1'],
                     'bill_postcode' => $bill_info['bill_postcode'],
                     'bill_city' => $bill_info['bill_city'],
@@ -415,6 +478,9 @@ class ControllerSaleCustomer extends Controller {
                     'telephone' => $result['telephone'],
                     'mobile' => $result['mobile'],
                     'fax' => $result['fax'],
+                    'firma' => $result['firma'],
+                    'museum' => $result['museum'],
+                    'privatperson' => $result['privatperson'],
                     'email' => $result['email'],
                     'address_1' => $address[0]['address_1'],
                     'country' => $address[0]['country_id'],
@@ -422,6 +488,7 @@ class ControllerSaleCustomer extends Controller {
                     'city' => $address[0]['city'],
                     'customer_group' => $result['customer_group'],
                     'ansprechpartner' => $result['ansprechpartner'],
+                    'ansprechpartner2' => $result['ansprechpartner2'],
                     'downloadedfile' => $result['downloadedfile'],
                     'status' => $result['approved'],
                     'approved' => ($result['approved'] ? '<span style="color:green;">angelegt</span>' : '<span style="color:red;">in Arbeit</span>'),
@@ -470,6 +537,8 @@ class ControllerSaleCustomer extends Controller {
                     'bill_postcode' => $bill_info['bill_postcode'],
                     'bill_city' => $bill_info['bill_city'],
                     'bill_land' => $bill_info['bill_land'],
+                    'lang' => $result['lang'],
+                    'ansprechpartner2' => $result['ansprechpartner2'],
                     'username' => $result['username'],
                     'postcode' => $address[0]['postcode'],
                     'position' => $result['position'],
@@ -477,6 +546,9 @@ class ControllerSaleCustomer extends Controller {
                     'mobile' => $result['mobile'],
                     'fax' => $result['fax'],
                     'email' => $result['email'],
+                    'firma' => $result['firma'],
+                    'museum' => $result['museum'],
+                    'privatperson' => $result['privatperson'],
                     'address_1' => $address[0]['address_1'],
                     'country' => $address[0]['country_id'],
                     'taxid_number' => $result['taxid_number'],

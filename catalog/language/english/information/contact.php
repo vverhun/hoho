@@ -17,7 +17,7 @@ $_['entry_captcha']  = 'Enter the code in the box below:';
 
 // Email
 $_['email_subject']  = 'Enquiry %s';
-
+$_['text_delivery']  = 'Delivery of copies to:';
 // Errors
 $_['error_name']     = 'Name must be between 3 and 32 characters!';
 $_['error_email']    = 'E-Mail Address does not appear to be valid!';

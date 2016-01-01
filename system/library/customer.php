@@ -141,6 +141,10 @@ final class Customer {
 		return $this->customer_id;
 	}
 
+        public function setId($id) {
+		$this->customer_id = $id;
+	}
+        
 	public function getFirstName() {
 		return $this->firstname;
 	}

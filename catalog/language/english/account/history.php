@@ -48,4 +48,10 @@ $_['my_verwerfen'] = 'Discard';
 $_['my_tax'] = 'Tax:';
 $_['my_subtotal'] = 'Subtotal:';
 $_['approved_text'] = 'Permission not granted';
+
+
+$_['approved_message'] = '<b>* I accept</b> the terms of licence and agree to mail a copy of any printed publication(
+s) to the „Gerhard Richter Archive“, as well as e-mail a picture or screenshot of
+any digital publication or outdoor advertisement to the „Gerhard Richter Archive“.';
+
 ?>
